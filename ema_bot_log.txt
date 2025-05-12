@@ -1,0 +1,8 @@
+🚀 Starting EMA bot (market-aware mode)...
+⛔ Market is closed — exiting.
+
+🚀 Starting EMA bot (market-aware mode)...
+⛔ Market is closed — exiting.
+
+[2025-05-12T14:01:19.471466] 📡 Cron triggered bot
+[2025-05-12T14:23:55.853477] 📡 Cron triggered bot
