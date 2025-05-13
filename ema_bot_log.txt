@@ -6,3 +6,8 @@
 
 [2025-05-12T14:01:19.471466] 📡 Cron triggered bot
 [2025-05-12T14:23:55.853477] 📡 Cron triggered bot
+[2025-05-13T06:00:02.817605] 📡 Cron triggered bot
+🚀 Starting EMA bot. Market-aware loop is running...
+
+🏁 Market closed — bot exiting at 09:00 AM ET
+❌ Failed to send Discord alert: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
