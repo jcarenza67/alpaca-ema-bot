@@ -7,6 +7,7 @@ import pytz
 import requests
 from datetime import datetime, timedelta
 from alpaca_trade_api.rest import REST, TimeFrame
+from ta.momentum import RSIIndicator
 from dotenv import load_dotenv
 
 from datetime import datetime
@@ -83,7 +84,7 @@ def log_trade(symbol, entry_price, exit_price, entry_date, exit_date, reason):
 def check_buy_signal(symbol):
     try:
         end_date = datetime.now()
-        start_date = end_date - timedelta(days=30)
+        start_date = end_date - timedelta(days=60)  # more days for EMAs & RSI
 
         bars = api.get_bars(
             symbol,
@@ -93,18 +94,39 @@ def check_buy_signal(symbol):
             feed='iex'
         ).df
 
-        if bars.empty or len(bars) < 2:
+        if bars.empty or len(bars) < 30:
             print(f"⚠️ Not enough data for {symbol}")
             return
 
         bars = bars.reset_index()
         bars["EMA_9"] = bars["close"].ewm(span=9, adjust=False).mean()
-        bars["EMA_21"] = bars["close"].ewm(span=21, adjust=False).mean()
+        bars["EMA_15"] = bars["close"].ewm(span=15, adjust=False).mean()
+        bars["EMA_65"] = bars["close"].ewm(span=65, adjust=False).mean()
+        bars["EMA_200"] = bars["close"].ewm(span=200, adjust=False).mean()
+
+        # RSI(14)
+        bars["RSI_14"] = RSIIndicator(close=bars["close"], window=14).rsi()
+
+        # Volume spike detection
+        bars["Volume_Avg20"] = bars["volume"].rolling(window=20).mean()
+
+        # Pivot Point calculation: (H + L + C) / 3
+        bars["Pivot"] = (bars["high"] + bars["low"] + bars["close"]) / 3
 
         today = bars.iloc[-1]
         yesterday = bars.iloc[-2]
 
-        if yesterday["EMA_9"] < yesterday["EMA_21"] and today["EMA_9"] > today["EMA_21"]:
+        rsi_ok = today["RSI_14"] < 30
+        volume_ok = today["volume"] > 1.5 * today["Volume_Avg20"]
+        ema_cross_ok = (
+            yesterday["EMA_9"] < yesterday["EMA_15"] and
+            today["EMA_9"] > today["EMA_15"]
+        )
+        price_above_pivot = today["close"] > today["Pivot"]
+
+        print(f"🔍 {symbol}: RSI={today['RSI_14']:.2f}, Vol Spike={volume_ok}, EMA Cross={ema_cross_ok}, Pivot Break={price_above_pivot}")
+
+        if rsi_ok and volume_ok and ema_cross_ok and price_above_pivot:
             print(f"📈 Buy Signal for {symbol}")
 
             if already_in_position(symbol):
@@ -119,9 +141,8 @@ def check_buy_signal(symbol):
                 time_in_force="gtc"
             )
             print(f"✅ Bought 1 share of {symbol} at {today['close']}")
-            
-            send_discord_alert(f"📈 BUY: {symbol} @ {today['close']:.2f}")
 
+            send_discord_alert(f"📈 BUY: {symbol} @ {today['close']:.2f}")
 
             positions = load_positions()
             positions[symbol] = {
@@ -131,6 +152,7 @@ def check_buy_signal(symbol):
             save_positions(positions)
         else:
             print(f"💤 No Buy Signal for {symbol}")
+
     except Exception as e:
         print(f"❌ Error checking {symbol}: {e}")
 
