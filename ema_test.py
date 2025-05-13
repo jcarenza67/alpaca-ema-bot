@@ -13,13 +13,7 @@ from datetime import datetime
 with open("/Users/josephwilfong/alpaca-bot/ema_bot_log.txt", "a") as f:
     f.write(f"[{datetime.now().isoformat()}] 📡 Cron triggered bot\n")
 
-DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
 
-def send_discord_alert(message):
-    try:
-        requests.post(DISCORD_WEBHOOK_URL, json={"content": message})
-    except Exception as e:
-        print(f"❌ Failed to send Discord alert: {e}")
 
 # ==== CONFIG ====
 POSITION_FILE = "positions.json"
@@ -33,6 +27,13 @@ API_KEY = os.getenv("APCA_API_KEY_ID")
 SECRET_KEY = os.getenv("APCA_API_SECRET_KEY")
 BASE_URL = "https://paper-api.alpaca.markets"
 api = REST(API_KEY, SECRET_KEY, BASE_URL)
+DISCORD_WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK_URL")
+
+def send_discord_alert(message):
+    try:
+        requests.post(DISCORD_WEBHOOK_URL, json={"content": message})
+    except Exception as e:
+        print(f"❌ Failed to send Discord alert: {e}")
 
 # ==== HELPERS ====
 def is_market_open():
@@ -212,6 +213,7 @@ def monitor_positions():
     save_positions(updated_positions)
 
 print("🚀 Starting EMA bot. Market-aware loop is running...\n")
+send_discord_alert(f"🟢 EMA bot started at {datetime.now(eastern).strftime('%I:%M %p ET')}")
 
 try:
     while is_market_open():

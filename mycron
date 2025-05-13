@@ -1,2 +1,2 @@
-0 6 * * 1-5 /Users/josephwilfong/alpaca-bot/bin/python3 /Users/josephwilfong/alpaca-bot/ema_test.py >> /Users/josephwilfong/alpaca-bot/ema_bot_log.txt 2>&1
+35 6 * * 1-5 /Users/josephwilfong/alpaca-bot/bin/python3 /Users/josephwilfong/alpaca-bot/ema_test.py >> /Users/josephwilfong/alpaca-bot/ema_bot_log.txt 2>&1
 

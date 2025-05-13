@@ -11,3 +11,6 @@
 
 🏁 Market closed — bot exiting at 09:00 AM ET
 ❌ Failed to send Discord alert: Invalid URL 'None': No scheme supplied. Perhaps you meant https://None?
+[2025-05-13T08:00:19.726711] 📡 Cron triggered bot
+[2025-05-13T08:09:21.186298] 📡 Cron triggered bot
+[2025-05-13T08:20:20.535725] 📡 Cron triggered bot
