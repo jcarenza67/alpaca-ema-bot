@@ -1,5 +1,6 @@
 .env
 .env.save
+*.env
 *.log
 __pycache__/
 *.pyc
