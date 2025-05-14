@@ -16,3 +16,725 @@
 [2025-05-13T08:20:20.535725] 📡 Cron triggered bot
 [2025-05-13T08:39:27.851767] 📡 Cron triggered bot
 [2025-05-13T09:09:44.233778] 📡 Cron triggered bot
+[2025-05-14T06:35:03.435368] 📡 Cron triggered bot
+🚀 Starting EMA bot. Market-aware loop is running...
+
+✅ Market is open — checking strategy at 09:35:03 AM...
+
+🔍 AAPL: RSI=57.66, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.75, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.07, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.61, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=69.95, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.55, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=53.15, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=71.55, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 09:40:05 AM...
+
+🔍 AAPL: RSI=57.58, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.35, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.81, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.98, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=69.55, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.64, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=54.22, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=72.20, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 09:45:06 AM...
+
+🔍 AAPL: RSI=58.10, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.12, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.48, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.98, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.84, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.91, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=54.19, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=71.80, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 09:50:08 AM...
+
+🔍 AAPL: RSI=56.95, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.82, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.61, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.98, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.99, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.56, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=52.73, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.56, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 09:55:09 AM...
+
+🔍 AAPL: RSI=57.43, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.54, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.45, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.84, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=69.02, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.83, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=53.41, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=72.07, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:00:10 AM...
+
+🔍 AAPL: RSI=57.89, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.51, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.82, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.84, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.70, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=71.05, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=53.69, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=72.05, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:05:12 AM...
+
+🔍 AAPL: RSI=57.91, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.49, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.10, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.71, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.46, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=54.30, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=71.90, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:10:13 AM...
+
+🔍 AAPL: RSI=57.57, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.63, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.43, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=69.11, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.70, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=54.24, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=71.90, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:15:15 AM...
+
+🔍 AAPL: RSI=57.91, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.46, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.83, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.58, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=54.77, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=71.13, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:20:16 AM...
+
+🔍 AAPL: RSI=58.36, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.11, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.00, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.33, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.48, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=55.15, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.70, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:25:18 AM...
+
+🔍 AAPL: RSI=58.36, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.25, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.58, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.67, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.68, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=55.23, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.42, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:30:19 AM...
+
+🔍 AAPL: RSI=58.16, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.51, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.69, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.55, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.70, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=56.15, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.02, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:35:23 AM...
+
+🔍 AAPL: RSI=57.87, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.43, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.77, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.40, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.66, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=55.77, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.26, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:40:25 AM...
+
+🔍 AAPL: RSI=57.81, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.46, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.81, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=42.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.57, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.68, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=56.13, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.97, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:45:26 AM...
+
+🔍 AAPL: RSI=57.49, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.49, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.81, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.62, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.71, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.87, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=55.83, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.87, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:50:28 AM...
+
+🔍 AAPL: RSI=57.69, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.65, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.83, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.65, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.65, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.80, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=56.67, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.67, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 10:55:29 AM...
+
+🔍 AAPL: RSI=57.60, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.07, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.75, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.70, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.78, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.78, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.55, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.22, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:00:31 AM...
+
+🔍 AAPL: RSI=57.84, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.01, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.56, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.63, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.63, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.60, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.48, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.46, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+[2025-05-14T08:25:55.027385] 📡 Cron triggered bot
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:05:32 AM...
+
+🔍 AAPL: RSI=57.11, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=73.82, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.27, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.63, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.33, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.03, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.14, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=68.86, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:10:34 AM...
+
+🔍 AAPL: RSI=57.11, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.20, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.59, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.63, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.80, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.93, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.18, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.49, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:15:35 AM...
+
+🔍 AAPL: RSI=56.94, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.40, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=73.93, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.28, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.79, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.15, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.24, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.78, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:20:37 AM...
+
+🔍 AAPL: RSI=57.05, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.21, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.05, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.31, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.44, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.01, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.16, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.45, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:25:38 AM...
+
+🔍 AAPL: RSI=57.31, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.38, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.25, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.31, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.47, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.21, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.14, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.53, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:30:39 AM...
+
+🔍 AAPL: RSI=57.53, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.45, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.26, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.34, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.66, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.19, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.33, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.92, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:35:41 AM...
+
+🔍 AAPL: RSI=57.36, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.53, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.46, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.35, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.58, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.13, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.34, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.28, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:40:42 AM...
+
+🔍 AAPL: RSI=57.44, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.53, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.36, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.33, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.72, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.84, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=57.49, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=71.01, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:45:44 AM...
+
+🔍 AAPL: RSI=57.67, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.50, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.44, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.33, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.60, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.66, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=58.26, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.86, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:50:45 AM...
+
+🔍 AAPL: RSI=57.45, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.37, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.16, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.33, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.52, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.81, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=58.33, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.27, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 11:55:47 AM...
+
+🔍 AAPL: RSI=57.40, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.45, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.00, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.23, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.53, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.80, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=58.58, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.08, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 12:00:48 PM...
+
+🔍 AAPL: RSI=57.18, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.65, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.87, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.23, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.43, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.99, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=58.67, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.14, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 12:05:49 PM...
+
+🔍 AAPL: RSI=57.33, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.66, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.95, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.24, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.32, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.03, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=58.72, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.24, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 12:10:51 PM...
+
+🔍 AAPL: RSI=57.12, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.82, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=74.95, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.24, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.11, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=70.03, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=59.40, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.25, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 12:15:52 PM...
+
+🔍 AAPL: RSI=56.99, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.80, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.01, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.22, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=67.97, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.92, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=59.52, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.51, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 12:20:53 PM...
+
+🔍 AAPL: RSI=56.94, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.72, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.00, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.25, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.14, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.78, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=58.90, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=70.14, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 12:25:55 PM...
+
+🔍 AAPL: RSI=57.11, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.89, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.00, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.22, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.01, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.59, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=59.26, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.37, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR
+⏲️ Sleeping for 5 minutes...
+
+✅ Market is open — checking strategy at 12:30:56 PM...
+
+🔍 AAPL: RSI=57.06, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for AAPL
+🔍 NVDA: RSI=74.91, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for NVDA
+🔍 TSLA: RSI=75.04, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for TSLA
+🔍 NMAX: RSI=41.22, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for NMAX
+🔍 PLTR: RSI=68.17, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PLTR
+🔍 PYPL: RSI=69.50, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for PYPL
+🔍 GOOGL: RSI=59.51, Vol Spike=False, EMA Cross=False, Pivot Break=True
+💤 No Buy Signal for GOOGL
+🔍 MSTR: RSI=69.32, Vol Spike=False, EMA Cross=False, Pivot Break=False
+💤 No Buy Signal for MSTR

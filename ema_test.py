@@ -19,7 +19,24 @@ with open("/Users/josephwilfong/alpaca-bot/ema_bot_log.txt", "a") as f:
 # ==== CONFIG ====
 POSITION_FILE = "positions.json"
 TRADE_LOG_FILE = "trade_log.csv"
-symbols = ["AAPL", "NVDA", "TSLA", "NMAX", "PLTR", "PYPL", "GOOGL", "MSTR"]
+symbols = {
+    "AAPL": 1,
+    "NVDA": 1,
+    "TSLA": 1,
+    "NMAX": 1,
+    "PLTR": 1,
+    "PYPL": 1,
+    "GOOGL": 1,
+    "MSTR": 1,
+    "SPY": 1,
+    "AUR": 200,
+    "RGTI": 200,
+    "MARA": 200,
+    "SAVA": 200,
+    "KULR": 200,
+    "NIO": 200,
+}
+
 eastern = pytz.timezone("US/Eastern")
 
 # ==== ENV SETUP ====
@@ -81,7 +98,7 @@ def log_trade(symbol, entry_price, exit_price, entry_date, exit_date, reason):
         ])
 
 # ==== BUY LOGIC ====
-def check_buy_signal(symbol):
+def check_buy_signal(symbol, qty):
     try:
         end_date = datetime.now()
         start_date = end_date - timedelta(days=60)  # more days for EMAs & RSI
@@ -135,7 +152,7 @@ def check_buy_signal(symbol):
 
             api.submit_order(
                 symbol=symbol,
-                qty=1,
+                qty=qty,
                 side="buy",
                 type="market",
                 time_in_force="gtc"
@@ -240,8 +257,8 @@ send_discord_alert(f"🟢 EMA bot started at {datetime.now(eastern).strftime('%I
 try:
     while is_market_open():
         print(f"✅ Market is open — checking strategy at {datetime.now(eastern).strftime('%I:%M:%S %p')}...\n")
-        for symbol in symbols:
-            check_buy_signal(symbol)
+        for symbol, qty in symbols.items():
+            check_buy_signal(symbol, qty)
 
         monitor_positions()
 
